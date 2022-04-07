@@ -1,1 +1,1 @@
-# awesome-diffential-privacy
+# awesome-differential-privacy
